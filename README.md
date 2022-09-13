@@ -22,7 +22,8 @@
 
 - 👯 I’m looking to collaborate on smart technology and automotive projects. 
 
-- 📄 Know about my experiences [shorturl.at/GPW67](shorturl.at/GPW67)
+- 📄 Know about my experiences <a href= shorturl.at/GPW67>Resume</a>
+
 
 
 <h2 size='50px'> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 20px height=20px> </h2>
