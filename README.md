@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on smart technology and automotive projects. 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h2 size='50px'> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 30px height=30px> </h2>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
