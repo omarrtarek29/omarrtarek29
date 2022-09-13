@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on smart technology and automotive projects. 
 
-- 📄 Know about my experiences <a href= 'http://shorturl.at/GPW67'>-->my resume<--</a>
+- 📄 Know about my experiences <a href= 'http://shorturl.at/GPW67'>-->check my resume<--</a>
 
 
 
