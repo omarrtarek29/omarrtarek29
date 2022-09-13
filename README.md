@@ -11,7 +11,7 @@
 <div size='20px'> Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2 size='50px'> About <img align="left" src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 25px height='30px'></h2>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
