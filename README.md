@@ -1,7 +1,14 @@
 <style>
-  img.a {
-     display:inline-block;
-     vertical-align:middle;
+  .one {
+  display: table;
+  }
+  .one img {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .one h2 {
+    display: table-cell;
+    vertical-align: middle;
   }
 </style>
 
@@ -15,9 +22,9 @@
 
 <br>
 
-<div>
+<div class="one">
 <h2> About </h2>
-<img class="a" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
