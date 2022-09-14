@@ -32,7 +32,7 @@
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg"/> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img src="https://img.icons8.com/external-outline-lafs/64/000000/external-Microcontroller-iiot-outline-iconset-outline-lafs.png"/> </a>
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src="https://www.downloadclipart.net/large/microcontroller-transparent-png.png"/> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
