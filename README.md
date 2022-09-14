@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there, fellows<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'> <img src="https://visitcount.itsvg.in/api?id=omarrtarek29&color=12" alt="omarrtarek29" /> </p>
+<p align='center'> <img src="https://visitcount.itsvg.in/api?id=omarrtarek29&pretty=false" alt="omarrtarek29" /> </p>
 <div align='center' size='30px'> Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <br>
