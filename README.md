@@ -3,13 +3,8 @@
 </div>
 
 <h1 align="center"> Hi there, fellows<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=omarrtarek29.omarrtarek29)
-
-</p>
-<div size='20px'> Thank you for taking the time to view my GitHub Profile :smile: 
-</div>
+<p align='center'> ![visitors](https://visitor-badge.glitch.me/badge?page_id=omarrtarek29.omarrtarek29) </p>
+<div size='20px'> Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <br>
 
