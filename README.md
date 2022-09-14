@@ -18,8 +18,8 @@ img.a, h2.a{
 
 <br>
 
-<div>
-<h2> About </h2>
+<div class="a">
+<h2 class="a"> About </h2>
 <img class="a" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 </div>
 
