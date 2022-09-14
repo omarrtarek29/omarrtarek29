@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences <a href= 'http://shorturl.at/GPW67'>check my resume</a>
 
+- 📫 How to reach me <a href="mailto:omar.tarek29@hotmail.com">email me</a>
+
 <br>
 
 <h2 size='50px'> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 25px> </h2>
