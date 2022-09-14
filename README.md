@@ -1,11 +1,8 @@
 <style>
-.container {
-	  align-items: center;
-	  border: 3px solid red;
-    display: flex;
-    height: 400px;
-	  width: 400px;
-	}
+  img.a {
+     display:inline-block;
+     vertical-align:middle;
+  }
 </style>
 
 <div align="center">
@@ -18,8 +15,9 @@
 
 <br>
 
-<div class="container">
-<h2> About <img class="a" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'> </h2>
+<div>
+<h2> About </h2>
+<img class="a" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
