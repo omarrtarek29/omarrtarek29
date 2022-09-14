@@ -23,19 +23,27 @@
 
 
 <h2 size='50px'> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 25px> </h2>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=python&sort= > <img title="Python" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img title="C" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=cpp&sort= > <img title="C++" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg"/> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src="https://www.downloadclipart.net/large/microcontroller-transparent-png.png"/> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img width ='83px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg'> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img title="AVR" width ='32px' height='32px' src="https://www.downloadclipart.net/large/microcontroller-transparent-png.png"/> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img title="RTOS" width ='83px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg'> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=python&sort= > <img title="Python" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=arduino&sort= > <img title="Arduino" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
+
+<a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=mysql&sort= > <img title="MySQL DB" width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width= 45px> </h2>
 <a href = 'https://www.linkedin.com/in/omartarek29'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
 <a href = 'https://www.github.com/omarrtarek29'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -43,10 +51,10 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarrtarek29&count_private=true&show_icons=true&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarrtarek29&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrtarek29&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrtarek29&theme=radical" />
 </a>
 
 
