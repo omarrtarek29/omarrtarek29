@@ -1,3 +1,21 @@
+<style>
+  .header_image {
+    position: relative;
+  }
+  .header_image img {
+      max-width: 15%;
+      display: inline-block;
+      vertical-align: middle;
+  }
+  .header_image h2 {
+      display: inline-block;
+      vertical-align: middle;
+      max-width:80%; /* in case of longer text */
+  }
+  
+</style>
+
+
 <div align="center">
 <img width="70%" height = "250px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
@@ -8,8 +26,10 @@
 
 <br>
 
-
-<h1 style="position: fixed;  top: 50%;  left: 50%;  margin-top: -50px;  margin-left: 100px;"> About <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'> </h1> 
+<div class="header_image clearfix">
+  <h1> About </h1> 
+  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
+</div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
