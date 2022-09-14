@@ -38,7 +38,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width= 45px> </h2>
 <a href = 'https://www.linkedin.com/in/omartarek29'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://fb.com/omarrtarek29" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarrtarek29" width="32" /></a>
-<a href="mailto:omar.tarek29@hotmail.com"><img align="center" src="mail1.svg" alt="omar.tarek29@hotmail.com" width="32" /></a>
+<a href="mailto:omar.tarek29@hotmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="omar.tarek29@hotmail.com" width="32" /></a>
 <a href="https://api.whatsapp.com/send?phone=201144724335"><img align="center" src="whatsapp.svg" alt="+201144724335" width="32" /></a>
 <a href = 'https://www.github.com/omarrtarek29'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.hackerrank.com/omarrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omarrrr" width="32" /></a>
