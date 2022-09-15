@@ -1,10 +1,8 @@
+<h1 align="center"> Hi there, fellows!<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
 <div align="center">
   <img width="600px" height = "300px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
-
-<h1 align="center"> Hi there, fellows<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-
-<div align='center' size='30px'> Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <br>
 
@@ -46,19 +44,25 @@
 
 <p><br></p>
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2 align="center"> My GitHub stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarrtarek29&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarrtarek29&count_private=true&show_icons=true&theme=radical" />
+</div>
+<br>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrtarek29&theme=radical" />
-</a>
+</div>
+
+<br>
+<br>
 
 <h4 align="center">Profile views :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{omarrtarek29}/count.svg"/></p>
 <div align="center">
   <img align="center" src="madara_eye.gif"/>
 </div>
-<p align="center"><img src="https://profile-counter.glitch.me/{omarrtarek29}/count.svg"/></p>
 
-<br>
+
+
+<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" width ="100%" align="center" />
