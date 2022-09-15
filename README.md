@@ -1,9 +1,9 @@
 <div align="center">
-<img width="70%" height = "250px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
+  <img width="600px" height = "300px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
 
 <h1 align="center"> Hi there, fellows<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'> <img src="https://visitcount.itsvg.in/api?id=omarrtarek29&pretty=false" alt="omarrtarek29" /> </p>
+
 <div align='center' size='30px'> Thank you for taking the time to view my GitHub Profile :smile: </div>
 
 <br>
@@ -55,5 +55,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrtarek29&theme=radical" />
 </a>
 
+<h4 align="center">Profile views :eyes:</h4>
+<div align="center">
+  <img align="center" src="madara_eye.gif"/>
+</div>
+<p align="center"><img src="https://profile-counter.glitch.me/{omarrtarek29}/count.svg"/></p>
 
 <br>
